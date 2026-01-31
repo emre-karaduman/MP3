@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="title">MP3 Player</string>
+    <string name="section_video">Video</string>
+    <string name="section_music">Musik</string>
+    <string name="play_video">Video abspielen</string>
+    <string name="play_music">Musik abspielen</string>
+    <string name="video_description">Wähle ein Video und starte die Wiedergabe.</string>
+    <string name="music_description">Wähle einen Track und starte die Wiedergabe.</string>
+</resources>
